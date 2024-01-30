@@ -4,21 +4,26 @@
 
 <h3 align="left">Connect with me:</h3>
 <p style="text-align:left">
-<a href="https://www.linkedin.com/in/alexey-kokhovets" target="blank"><img align="center" src="https://icon-library.com/icon/free-linkedin-icon-24.html" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/alexey-kokhovets" target="blank"><img align="center" src="https://icon-library.com/images/free-linkedin-icon/free-linkedin-icon-24.jpg" alt="LinkedIn" height="30" width="30" /></a>
 </p>
 
 
 <h3 align="left">Technologies and Tools:</h3>
 <p style="text-align:left">
-<a href="https://www.jetbrains.com/" target="blank"><img align="center" src="https://www.jetbrains.com/idea/img/idea-edu.svg" alt="vscode" height="30" width="30" /></a>
-<a href="https://firebase.google.com/" target="blank"><img align="center" src="https://icon-library.com/images/65813-google-computer-icons-github-firebase-angularjs-messaging.png" alt="firebase" height="30" width="30" /></a>
-<a href="https://developer.android.com/" target="blank"><img align="center" src="https://icon-library.com/images/android-icon-svg/android-icon-svg-23.jpg" alt="androidstudio" height="30" width="30" /></a>
+
 <a href="https://flutter.dev/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" alt="flutter" height="30" width="30" /></a>
+<a href="https://developer.android.com/" target="blank"><img align="center" src="https://icon-library.com/images/android-icon-svg/android-icon-svg-23.jpg" alt="androidstudio" height="30" width="30" /></a>
+<a href="https://firebase.google.com/" target="blank"><img align="center" src="https://icon-library.com/images/65813-google-computer-icons-github-firebase-angularjs-messaging.png" alt="firebase" height="30" width="30" /></a>
+<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://icon-library.com/images/visual-studio-icon-png/visual-studio-icon-png-29.jpg" alt="vscode" height="30" width="30" /></a>
+<a href="https://www.php.net/" target="blank"><img align="center" src="https://icon-library.com/images/php-icon-png/php-icon-png-7.jpg" alt="php" height="30" width="30" /></a>
 <a href="https://www.javascript.com/" target="blank"><img align="center" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-7.jpg" alt="javascript" height="30" width="30" /></a>
 <a href="https://www.w3schools.com/html/" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png" alt="html5" height="30" width="30" /></a>
-<a href="https://www.php.net/" target="blank"><img align="center" src="https://icon-library.com/icon/php-icon-png-0.html" alt="php" height="30" width="30" /></a>
+<a href="https://www.mysql.com/" target="blank"><img align="center" src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" alt="mysql" height="30" width="30" /></a>
+<a href="https://jquery.com/" target="blank"><img align="center" src="https://icon-library.com/images/jquery-icon/jquery-icon-4.jpg" alt="jquery" height="30" width="30" /></a>
 <a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" alt="css" height="30" width="30" /></a>  
-<a href="https://spring.io/" target="blank"><img align="center" src="https://spring-petclinic.github.io/images/logo-spring.png" alt="spring" height="30" width="30" /></a>
+
+
+
 </p>
 <hr></hr>
 
