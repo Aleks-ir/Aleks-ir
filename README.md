@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p style="text-align:left">
-<a href="https://www.linkedin.com/in/alexey-kokhovets" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="aleks-ir" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/alexey-kokhovets" target="blank"><img align="center" src="https://icon-library.com/icon/free-linkedin-icon-24.html" alt="LinkedIn" height="30" width="30" /></a>
 </p>
 
 
@@ -16,7 +16,7 @@
 <a href="https://flutter.dev/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" alt="flutter" height="30" width="30" /></a>
 <a href="https://www.javascript.com/" target="blank"><img align="center" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-7.jpg" alt="javascript" height="30" width="30" /></a>
 <a href="https://www.w3schools.com/html/" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png" alt="html5" height="30" width="30" /></a>
-<a href="https://getbootstrap.com/" target="blank"><img align="center" src="https://www.digitalkure.com/wp-content/uploads/2019/01/bootstrap-1.png" alt="bootstrap" height="30" width="30" /></a>
+<a href="https://www.php.net/" target="blank"><img align="center" src="https://icon-library.com/icon/php-icon-png-0.html" alt="php" height="30" width="30" /></a>
 <a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" alt="css" height="30" width="30" /></a>  
 <a href="https://spring.io/" target="blank"><img align="center" src="https://spring-petclinic.github.io/images/logo-spring.png" alt="spring" height="30" width="30" /></a>
 </p>
