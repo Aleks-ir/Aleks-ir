@@ -1,11 +1,6 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/57506563/167877891-f119dadf-95f3-48c6-865a-6e3431e3f106.gif" width="30" /> Hi, I'm Alexey</h1>
 
-- 🌱 I’m currently learning Flutter Development
-
-<h3 align="left">Connect with me:</h3>
-<p style="text-align:left">
-<a href="https://www.linkedin.com/in/alexey-kokhovets" target="blank"><img align="center" src="https://icon-library.com/images/free-linkedin-icon/free-linkedin-icon-24.jpg" alt="LinkedIn" height="30" width="30" /></a>
-</p>
+- 🌱 I’m currently learning PHP and Flutter Development
 
 
 <h3 align="left">Technologies and Tools:</h3>
