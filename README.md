@@ -1,6 +1,6 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/57506563/167877891-f119dadf-95f3-48c6-865a-6e3431e3f106.gif" width="30" /> Hi, I'm Alexey</h1>
+<h1 align="center">Hi, I'm Alexey</h1>
 
-- 🌱 I’m currently learning PHP and Flutter Development
+🔭 I’m currently learning PHP and Flutter Development
 
 
 <h3 align="left">Technologies and Tools:</h3>
@@ -22,8 +22,6 @@
 </p>
 <hr></hr>
 
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=aleks-ir&show_icons=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&count_private=true&hide=issues" alt="aleks-ir" width="50%" /></p>
  
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleks-ir&show_icons=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&layout=compact&count-private=true" alt="aleks-ir" /></p>
 
